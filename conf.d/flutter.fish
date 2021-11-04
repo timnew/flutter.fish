@@ -1,3 +1,4 @@
+abbr -a -U -- fpa 'flutter pub add'
 abbr -a -U -- fpg 'flutter pub get'
 
 abbr -a -U -- fr 'flutter run'
