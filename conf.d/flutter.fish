@@ -1,6 +1,9 @@
 abbr -a -U -- fpa 'flutter pub add'
 abbr -a -U -- fpad 'flutter pub add --dev'
 abbr -a -U -- fpg 'flutter pub get'
+abbr -a -U -- fpod 'flutter pub outdated'
+abbr -a -U -- fpu 'flutter pub upgrade'
+abbr -a -U -- fpum 'flutter pub upgrade --major-versions'
 
 abbr -a -U -- fr 'flutter run'
 abbr -a -U -- frr 'flutter run --release'
