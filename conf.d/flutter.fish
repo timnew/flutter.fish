@@ -8,6 +8,8 @@ abbr -a -U -- fpum 'flutter pub upgrade --major-versions'
 abbr -a -U -- fr 'flutter run'
 abbr -a -U -- frr 'flutter run --release'
 
+abbr -a -U -- fd 'flutter devices'
+
 abbr -a -U -- fbrc 'flutter pub run build_runner clean'
 abbr -a -U -- fbrb 'flutter pub run build_runner build'
 abbr -a -U -- fbrbd 'flutter pub run build_runner build --delete-conflicting-outputs'
