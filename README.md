@@ -11,7 +11,7 @@ Install flutter and dart SDK
 With [fisherman]
 
 ```fish
-$ fisher add timnew/flutter.fish
+$ fisher install timnew/flutter.fish
 ```
 
 Hope you have a _fast_ swim!
